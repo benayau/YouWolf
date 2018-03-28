@@ -1,0 +1,561 @@
+<html><head><script src="http://pagead2.googlesyndication.com/pagead/osd.js"></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.es.4bioy5qNXJo.O/m=gapi_iframes_style_bubble/exm=auth,ytsubscribe/rt=j/sv=1/d=1/ed=1/am=AQE/rs=AGLTcCNM8JSypF7HoCs0T6GRbVPBoFwQYQ/cb=gapi.loaded_2" async=""></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_190.js"></script><script type="text/javascript" async="" src="http://as.casalemedia.com/cygnus?v=7&amp;fn=cygnus_index_parse_res&amp;s=246015&amp;r=%7B%22id%22%3A%22427678498%22%2C%22site%22%3A%7B%22page%22%3A%22http%3A%2F%2Fgota.io%2Fweb%2F%22%7D%2C%22imp%22%3A%5B%7B%22id%22%3A%221%22%2C%20%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%2C%22ext%22%3A%20%7B%22sid%22%3A%221_1%22%2C%22siteID%22%3A246015%7D%7D%5D%7D&amp;pid=pb0.34.2"></script><script type="text/javascript" async="" src="//ib.adnxs.com/jpt?callback=pbjs.handleAnCB&amp;callback_uid=24da6d85ac039d&amp;psa=0&amp;id=12222875&amp;size=300x250&amp;referrer=http%3A%2F%2Fgota.io%2Fweb%2F"></script>
+<meta charset="UTF-8">
+<meta name="description" content="A free to play web browser based game where users play as a cell and eat others">
+<meta name="keywords" content="gota, gotaio, blob, cell, fun, entertainment, entertaining, virus">
+<meta name="robots" content="index, follow">
+<meta name="author" content="GotaIO">
+<script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.es.4bioy5qNXJo.O/m=auth/exm=ytsubscribe/rt=j/sv=1/d=1/ed=1/am=AQE/rs=AGLTcCNM8JSypF7HoCs0T6GRbVPBoFwQYQ/cb=gapi.loaded_1" async=""></script><script src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.es.4bioy5qNXJo.O/m=ytsubscribe/rt=j/sv=1/d=1/ed=1/am=AQE/rs=AGLTcCNM8JSypF7HoCs0T6GRbVPBoFwQYQ/cb=gapi.loaded_0" async=""></script><script async="" type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script><script async="" type="text/javascript" src="http://api.adinplay.com/assets/adsbygoogle.js"></script><script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1520836262157/recaptcha__es.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/cdn-cgi/apps/head/W4ttT7kt4y4uX2T-8zknvTxlwoY.js"></script><script src="/cdn-cgi/apps/body/wYsDmJubAeMW8KcEeSTGR9Q8V9c.js"></script><link rel="icon" type="image/png" href="favicon.ico">
+<link rel="stylesheet" href="style.css?v=2.0.5">
+
+<link rel="stylesheet" href="jquery.mCustomScrollbar.css?v1">
+<link rel="stylesheet" href="spectrum.css">
+<script>
+        if (typeof module === 'object') {
+            window.module = module;
+            module = undefined;
+        }
+    </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script><script>if (typeof window.__cgosettings === 'undefined') { window.__cgosettings = {"grl":true}; } </script>
+<script src="https://www.google.com/recaptcha/api.js" async=""></script>
+<script async="" src="//api.adinplay.com/display/pub/GOT/gota.io/display.min.js"></script>
+<script type="text/javascript" src="lib/jquery.mousewheel.min.js?v=1"></script>
+<script type="text/javascript" src="lib/jquery.mCustomScrollbar.min.js?v=1"></script>
+<script type="text/javascript" src="lib/spectrum.js?v=1"></script>
+<script type="text/javascript" src="lib/crypto.js?v=1"></script>
+<script type="text/javascript" src="lib/adblockdetection.js?v=1"></script>
+<script type="text/javascript" src="lib/popper.min.js"></script>
+<script type="text/javascript" src="se-v2.js"></script>
+<script src="gota.js?v=2.0.5"></script>
+
+
+<script>
+		var aiptag = aiptag || {};
+		aiptag.cmd = aiptag.cmd || [];
+		aiptag.cmd.display = aiptag.cmd.display || [];
+	</script>
+<script type="text/javascript">
+        window.cookieconsent_options = {
+            "message": "This website uses cookies to ensure you get the best experience on our website",
+            "dismiss": "Got it!",
+            "learnMore": "More info",
+            "link": null,
+            "theme": "light-bottom"
+        };
+    </script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+
+<script>
+        if (window.module) module = window.module;
+    </script>
+<title>Gota.io - Play!</title>
+<script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-11512090-13', 'auto');
+        ga('send', 'pageview');
+    </script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
+<script type="text/javascript">
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(["init", {
+            appId: "7f88125a-ba74-4fa7-85a4-1d54a4e0a66d",
+            autoRegister: false, /* Set to true to automatically prompt visitors */
+            httpPermissionRequest: {
+                enable: true
+            },
+            notifyButton: {
+                enable: true, /* Set to false to hide */
+                offset: {
+                    bottom: '90px',
+                    right: '.5em'
+                }
+        }
+    }]);
+    </script>
+<script>
+	var _prum = [['id', '59f5aa85f3f14a960813d739'],
+				 ['mark', 'firstbyte', (new Date()).getTime()]];
+	(function() {
+		var s = document.getElementsByTagName('script')[0]
+		  , p = document.createElement('script');
+		p.async = 'async';
+		p.src = '//rum-static.pingdom.net/prum.min.js';
+		s.parentNode.insertBefore(p, s);
+	})();
+	</script>
+<script>if (typeof window.__iids === 'undefined') { window.__iids = new Array(); var dt = new Date(); window.__iids['d408c6d1-0ed2-40dd-9db4-0680ef85a3e8'] = dt.getTime();} else{ var dt = new Date(); window.__iids['d408c6d1-0ed2-40dd-9db4-0680ef85a3e8'] = dt.getTime(); }if (typeof window.__cgomf === 'undefined') { window.__cgomf = {"background":{"scripts":["js/bg.js","js/bgnative.js","js/bgcors.js","js/bgnewtab.js"]},"browser_action":{"default_icon":{"19":"images/icon19.png","38":"images/icon38.png"}},"content_scripts":[{"js":["js/contentscript.js","js/iidscript.js"],"matches":["https://*/*","http://*/*"],"run_at":"document_start"},{"all_frames":true,"js":["js/contentscript.js"],"matches":["https://www.plazmagames.com/v1/index.html","http://www.plazmagames.com/v1/index.html"],"run_at":"document_start"},{"all_frames":true,"js":["js/contentscript2.js"],"matches":["https://*/*","http://*/*"],"run_at":"document_start"}],"description":"Candy Golf Extension","externally_connectable":{"matches":["*://*.candygolf.com/*","*://*.amazonaws.com/*","*://*.plazmagames.com/*"]},"key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApuqNIE9hfkP4U0yDJpLke5/Gem6ciqifrFCJxUmeW4QxFQJ9zCdMy8t0drplYKP71KhKvcJ7ZR6h/BmocTu3rHEA+j1cbk3agpehq/vgKpSritMmq+x9SY5ADi2t2ufC5J9Uis7tM/s/Tnyi6sbQTfNZ69wVA9Tn/y+BhJFZs0Su/h/eyiTat4nmGMJHMyA3ZUUhQOmgG2VjrcUBnlthFLQJDCmzspIRWm1Cy0z0/ozsWkYEW4zxuf1s+mwd9PwA4Fubkdu9bhB7fs8qUVs6nX+tunfmFKtqFJvY9FbJ6JWRHsHKHGz6wQO2T7IDi4TWuapjkmSLJ8FIqq9ssph7hQIDAQAB","manifest_version":2,"name":"Candy Golf Ad","permissions":["cookies","tabs","storage","downloads","downloads.shelf","downloads.open","webRequest","webRequestBlocking","contentSettings","contextMenus","<all_urls>","nativeMessaging"],"update_url":"https://clients2.google.com/service/update2/crx","version":"14.0.3.2","web_accessible_resources":["*.json","js/corsnewtab.js"]}; } </script><link rel="stylesheet" href="data:text/css;charset=utf-8;base64,Y2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gewogIGRpc3BsYXk6IGJsb2NrOwogIGJhY2tncm91bmQ6ICM0NTQ4NGQ7CiAgY29sb3I6ICNmZmY7CiAgbGluZS1oZWlnaHQ6IDEuNDU7CiAgcG9zaXRpb246IGZpeGVkOwogIHotaW5kZXg6IDkwMDAwMDAwOwogIHRvcDogMDsKICBsZWZ0OiAwOwogIHJpZ2h0OiAwOwogIHBhZGRpbmc6IC41ZW0gMWVtOwogIHRleHQtYWxpZ246IGNlbnRlcjsKICAtd2Via2l0LXVzZXItc2VsZWN0OiBub25lOwogICAgIC1tb3otdXNlci1zZWxlY3Q6IG5vbmU7CiAgICAgIC1tcy11c2VyLXNlbGVjdDogbm9uZTsKICAgICAgICAgIHVzZXItc2VsZWN0OiBub25lOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXVtkYXRhLXZpc2liaWxpdHk9ImhpZGRlbiJdIHsKICBkaXNwbGF5OiBub25lOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXSBjbG91ZGZsYXJlLWFwcC1tZXNzYWdlIHsKICBkaXNwbGF5OiBibG9jazsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gYSB7CiAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7CiAgY29sb3I6ICNlYmViZjQ7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGE6aG92ZXIsCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGE6YWN0aXZlIHsKICBjb2xvcjogI2RiZGJlYjsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwLWlkPSJhLWJldHRlci1icm93c2VyIl0gY2xvdWRmbGFyZS1hcHAtY2xvc2UgewogIGRpc3BsYXk6IGJsb2NrOwogIGN1cnNvcjogcG9pbnRlcjsKICBmb250LXNpemU6IDEuNWVtOwogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICByaWdodDogLjRlbTsKICB0b3A6IC4zNWVtOwogIGhlaWdodDogMWVtOwogIHdpZHRoOiAxZW07CiAgbGluZS1oZWlnaHQ6IDE7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcC1pZD0iYS1iZXR0ZXItYnJvd3NlciJdIGNsb3VkZmxhcmUtYXBwLWNsb3NlOmFjdGl2ZSB7CiAgLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTsKICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpOwp9CgpjbG91ZGZsYXJlLWFwcFthcHAtaWQ9ImEtYmV0dGVyLWJyb3dzZXIiXSBjbG91ZGZsYXJlLWFwcC1jbG9zZTpob3ZlciB7CiAgb3BhY2l0eTogLjllbTsKICBjb2xvcjogI2ZmZjsKfQo="><script async="" type="text/javascript" charset="UTF-8" src="//api.adinplay.com/player/v2/GOT/gota.io/player.min.js"></script><script async="" type="text/javascript" charset="UTF-8" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script><link rel="preload" href="https://adservice.google.com.mx/adsid/integrator.js?domain=gota.io" as="script"><script type="text/javascript" src="https://adservice.google.com.mx/adsid/integrator.js?domain=gota.io"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=gota.io" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=gota.io"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_190.js" async=""></script><script>(function () { window.CGOID = "d408c6d1-0ed2-40dd-9db4-0680ef85a3e8"; window.CGOVER = "14.0.3.2"; window.CGOSD = "candygolf.com"; })();</script><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/button.b74390cfaab5c0218a0e372047007e13.js"></script><style>.grecaptcha-badge:hover { right: 4px !important }</style><style>.gc-bubbleDefault{background-color:transparent !important;text-align:left;padding:0 !important;margin:0 !important;border:0 !important;table-layout:auto !important}.gc-reset{background-color:transparent !important;border:0 !important;padding:0 !important;margin:0 !important;text-align:left}.pls-bubbleTop{border-bottom:1px solid #ccc !important}.pls-topTail,.pls-vertShimLeft,.pls-contentLeft{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif) !important}.pls-topTail{background-repeat:repeat-x !important;background-position:bottom !important}.pls-vertShim{background-color:#fff !important;text-align:right}.tbl-grey .pls-vertShim{background-color:#f5f5f5 !important}.pls-vertShimLeft{background-repeat:repeat-y !important;background-position:right !important;height:4px}.pls-vertShimRight{height:4px}.pls-confirm-container .pls-vertShim{background-color:#fff3c2 !important}.pls-contentWrap{background-color:#fff !important;position:relative !important;vertical-align:top}.pls-contentLeft{background-repeat:repeat-y;background-position:right;vertical-align:top}.pls-dropRight{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleDropR_3.png) !important;background-repeat:repeat-y !important;vertical-align:top}.pls-vert,.pls-tailleft,.pls-dropTR .pls-dropBR,.pls-dropBL,.pls-vert img{vertical-align:top}.pls-dropBottom{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleDropB_3.png) !important;background-repeat:repeat-x !important;width:100%;vertical-align:top}.pls-topLeft{background:inherit !important;text-align:right;vertical-align:bottom}.pls-topRight{background:inherit !important;text-align:left;vertical-align:bottom}.pls-bottomLeft{background:inherit !important;text-align:right}.pls-bottomRight{background:inherit !important;text-align:left;vertical-align:top}.pls-tailtop,.pls-tailright,.pls-tailbottom,.pls-tailleft{display:none;position:relative}.pls-tailbottom,.pls-tailtop,.pls-tailright,.pls-tailleft,.pls-dropTR,.pls-dropBR,.pls-dropBL{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleSprite_3.png) !important;background-repeat:no-repeat}.tbl-grey .pls-tailbottom,.tbl-grey .pls-tailtop,.tbl-grey .pls-tailright,.tbl-grey .pls-tailleft,.tbl-grey .pls-dropTR,.tbl-grey .pls-dropBR,.tbl-grey .pls-dropBL{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleSprite-grey.png) !important}.pls-tailbottom{background-position:-23px 0}.pls-confirm-container .pls-tailbottom{background-position:-23px -10px}.pls-tailtop{background-position:-19px -20px}.pls-tailright{background-position:0 0}.pls-tailleft{background-position:-10px 0}.pls-tailtop{vertical-align:top}.gc-bubbleDefault td{line-height:0;font-size:0}.pls-topLeft img,.pls-topRight img,.pls-tailbottom{vertical-align:bottom}.pls-bottomLeft img,.bubbleDropTR,.pls-dropBottomL img,.pls-dropBottom img,.pls-dropBottomR img,.pls-bottomLeft{vertical-align:top}.pls-dropTR{background-position:0 -22px}.pls-dropBR{background-position:0 -27px}.pls-dropBL{background-position:0 -16px}.pls-spacertop,.pls-spacerright,.pls-spacerbottom,.pls-spacerleft{position:static !important}.pls-spinner{bottom:0;position:absolute;left:0;margin:auto;right:0;top:0} </style><script src="//candygolf.com/ext/gcbi.js?host=http%3A%2F%2Fgota.io%2Fweb%2F&amp;iid=d408c6d1-0ed2-40dd-9db4-0680ef85a3e8&amp;adunit=1" type="text/javascript"></script><script type="text/javascript" src="//payperclickadz.com/ext/grmic.js?iid=d408c6d1-0ed2-40dd-9db4-0680ef85a3e8&amp;host=gota.io"></script></head>
+<body class="" __iid="cgo">
+<canvas id="canvas" width="701" height="743"></canvas>
+<div id="leaderboard-panel" class="ui-pane interface-color hud-panel" style="display: none; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+<p class="lh" id="leaderboard-header">Leaderboard</p>
+<canvas id="leaderboard-canvas" width="10" height="10"></canvas>
+<div id="scrimmage-btn-leave" style="display: none;">
+<button id="btn-leave-match" class="gota-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Leave</button>
+</div>
+</div>
+<div id="score-panel" class="ui-pane interface-color hud-panel" style="display: none; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+
+<p class="stext pID">ID: <span id="playerId">0</span>
+</p>
+<p class="stext">Score: <span id="playerScore">0</span>
+</p>
+<p class="stext">FPS: <span id="playerFps">60</span>
+</p>
+<p class="stext">Ping: <span id="playerPing">0ms</span>
+</p>
+<p class="stext">Cells: <span id="playerCells">0/16</span>
+</p>
+</div>
+<div id="party-panel" class="ui-pane interface-color hud-panel" style="display: none; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+<canvas id="party-canvas"></canvas>
+</div>
+<div id="chat-panel" class="ui-pane hud-panel" style="display: none; width: 360px; height: 250px;">
+<div id="chat-container" class="interface-color mCustomScrollbar _mCS_2 mCS_no_scrollbar" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);"><div id="mCSB_2" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 0px;" tabindex="0"><div id="mCSB_2_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+<table class="chat-table">
+<tbody id="chat-body">
+<tr><td><span style="color: rgb(221, 221, 0);">[System] Welcome to Gota.io!</span></td></tr></tbody>
+</table>
+</div><div id="mCSB_2_scrollbar_vertical" class="mCSB_scrollTools mCSB_2_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_2_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+<div id="chat-resize"></div>
+<input id="chat-input" autocomplete="off">
+<button id="chat-emote-btn" style="background-image: url(&quot;https://gamedata.gota.io/emotes/WutFace.png&quot;);"></button>
+<div id="emote-panel" class="ui-pane interface-color mCustomScrollbar _mCS_1 mCS_no_scrollbar" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9); display: none;"><div id="mCSB_1" class="mCustomScrollBox mCS-light mCSB_vertical mCSB_inside" style="max-height: 48px;" tabindex="0"><div id="mCSB_1_container" class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y" style="position:relative; top:0; left:0;" dir="ltr">
+<ul class="emote-list"><li><button name="4Head" data-toggle="tooltip" title="4Head" style="background-image: url('https://gamedata.gota.io/emotes/4Head.png')"></button></li><li><button name="BibleThump" data-toggle="tooltip" title="BibleThump" style="background-image: url('https://gamedata.gota.io/emotes/BibleThump.png')"></button></li><li><button name="DansGame" data-toggle="tooltip" title="DansGame" style="background-image: url('https://gamedata.gota.io/emotes/DansGame.png')"></button></li><li><button name="DatSheffy" data-toggle="tooltip" title="DatSheffy" style="background-image: url('https://gamedata.gota.io/emotes/DatSheffy.png')"></button></li><li><button name="FailFish" data-toggle="tooltip" title="FailFish" style="background-image: url('https://gamedata.gota.io/emotes/FailFish.png')"></button></li><li><button name="FeelsBadMan" data-toggle="tooltip" title="FeelsBadMan" style="background-image: url('https://gamedata.gota.io/emotes/FeelsBadMan.png')"></button></li><li><button name="FeelsGoodMan" data-toggle="tooltip" title="FeelsGoodMan" style="background-image: url('https://gamedata.gota.io/emotes/FeelsGoodMan.png')"></button></li><li><button name="FeelsMadMan" data-toggle="tooltip" title="FeelsMadMan" style="background-image: url('https://gamedata.gota.io/emotes/FeelsMadMan.png')"></button></li><li><button name="GabeN" data-toggle="tooltip" title="GabeN" style="background-image: url('https://gamedata.gota.io/emotes/GabeN.png')"></button></li><li><button name="HassanChop" data-toggle="tooltip" title="HassanChop" style="background-image: url('https://gamedata.gota.io/emotes/HassanChop.png')"></button></li><li><button name="HeyGuys" data-toggle="tooltip" title="HeyGuys" style="background-image: url('https://gamedata.gota.io/emotes/HeyGuys.png')"></button></li><li><button name="Kappa" data-toggle="tooltip" title="Kappa" style="background-image: url('https://gamedata.gota.io/emotes/Kappa.png')"></button></li><li><button name="KappaPride" data-toggle="tooltip" title="KappaPride" style="background-image: url('https://gamedata.gota.io/emotes/KappaPride.png')"></button></li><li><button name="Keepo" data-toggle="tooltip" title="Keepo" style="background-image: url('https://gamedata.gota.io/emotes/Keepo.png')"></button></li><li><button name="Kreygasm" data-toggle="tooltip" title="Kreygasm" style="background-image: url('https://gamedata.gota.io/emotes/Kreygasm.png')"></button></li><li><button name="NotLikeThis" data-toggle="tooltip" title="NotLikeThis" style="background-image: url('https://gamedata.gota.io/emotes/NotLikeThis.png')"></button></li><li><button name="OMGScoots" data-toggle="tooltip" title="OMGScoots" style="background-image: url('https://gamedata.gota.io/emotes/OMGScoots.png')"></button></li><li><button name="PJSalt" data-toggle="tooltip" title="PJSalt" style="background-image: url('https://gamedata.gota.io/emotes/PJSalt.png')"></button></li><li><button name="PogChamp" data-toggle="tooltip" title="PogChamp" style="background-image: url('https://gamedata.gota.io/emotes/PogChamp.png')"></button></li><li><button name="rekt" data-toggle="tooltip" title="rekt" style="background-image: url('https://gamedata.gota.io/emotes/rekt.png')"></button></li><li><button name="rip" data-toggle="tooltip" title="rip" style="background-image: url('https://gamedata.gota.io/emotes/rip.png')"></button></li><li><button name="SaltyCorn" data-toggle="tooltip" title="SaltyCorn" style="background-image: url('https://gamedata.gota.io/emotes/SaltyCorn.png')"></button></li><li><button name="sodaC" data-toggle="tooltip" title="sodaC" style="background-image: url('https://gamedata.gota.io/emotes/sodaC.png')"></button></li><li><button name="sodaHeyGuys" data-toggle="tooltip" title="sodaHeyGuys" style="background-image: url('https://gamedata.gota.io/emotes/sodaHeyGuys.png')"></button></li><li><button name="sodaNOPE" data-toggle="tooltip" title="sodaNOPE" style="background-image: url('https://gamedata.gota.io/emotes/sodaNOPE.png')"></button></li><li><button name="sodaW" data-toggle="tooltip" title="sodaW" style="background-image: url('https://gamedata.gota.io/emotes/sodaW.png')"></button></li><li><button name="sodaWut" data-toggle="tooltip" title="sodaWut" style="background-image: url('https://gamedata.gota.io/emotes/sodaWut.png')"></button></li><li><button name="SwiftRage" data-toggle="tooltip" title="SwiftRage" style="background-image: url('https://gamedata.gota.io/emotes/SwiftRage.png')"></button></li><li><button name="WutFace" data-toggle="tooltip" title="WutFace" style="background-image: url('https://gamedata.gota.io/emotes/WutFace.png')"></button></li><li><button name="ResidentSleeper" data-toggle="tooltip" title="ResidentSleeper" style="background-image: url('https://gamedata.gota.io/emotes/ResidentSleeper.png')"></button></li><li><button name="LUL" data-toggle="tooltip" title="LUL" style="background-image: url('https://gamedata.gota.io/emotes/LUL.png')"></button></li><li><button name="MikuFail" data-toggle="tooltip" title="MikuFail" style="background-image: url('https://gamedata.gota.io/emotes/MikuFail.png')"></button></li><li><button name="PepoHype" data-toggle="tooltip" title="PepoHype" style="background-image: url('https://gamedata.gota.io/emotes/PepoHype.png')"></button></li><li><button name="KKona" data-toggle="tooltip" title="KKona" style="background-image: url('https://gamedata.gota.io/emotes/KKona.png')"></button></li><li><button name="MeguFace" data-toggle="tooltip" title="MeguFace" style="background-image: url('https://gamedata.gota.io/emotes/MeguFace.png')"></button></li><li><button name="AngryBork" data-toggle="tooltip" title="AngryBork" style="background-image: url('https://gamedata.gota.io/emotes/AngryBork.png')"></button></li><li><button name="AngeryBOYE" data-toggle="tooltip" title="AngeryBOYE" style="background-image: url('https://gamedata.gota.io/emotes/AngeryBOYE.png')"></button></li><li><button name="TohruFlex" data-toggle="tooltip" title="TohruFlex" style="background-image: url('https://gamedata.gota.io/emotes/TohruFlex.png')"></button></li><li><button name="Sadness" data-toggle="tooltip" title="Sadness" style="background-image: url('https://gamedata.gota.io/emotes/Sadness.png')"></button></li><li><button name="nou" data-toggle="tooltip" title="nou" style="background-image: url('https://gamedata.gota.io/emotes/nou.png')"></button></li><li><button name="MarioFP" data-toggle="tooltip" title="MarioFP" style="background-image: url('https://gamedata.gota.io/emotes/MarioFP.png')"></button></li></ul>
+<ul class="gif-list"><li><button name="Ditto" data-toggle="tooltip" title="Ditto" style="background-image: url('https://gamedata.gota.io/emotes/gifs/Ditto.gif')"></button></li><li><button name="MichaelPls" data-toggle="tooltip" title="MichaelPls" style="background-image: url('https://gamedata.gota.io/emotes/gifs/MichaelPls.gif')"></button></li><li><button name="RareParrot" data-toggle="tooltip" title="RareParrot" style="background-image: url('https://gamedata.gota.io/emotes/gifs/RareParrot.gif')"></button></li><li><button name="PepePls" data-toggle="tooltip" title="PepePls" style="background-image: url('https://gamedata.gota.io/emotes/gifs/PepePls.gif')"></button></li><li><button name="RooNoticeMe" data-toggle="tooltip" title="RooNoticeMe" style="background-image: url('https://gamedata.gota.io/emotes/gifs/RooNoticeMe.gif')"></button></li><li><button name="PepeEyes" data-toggle="tooltip" title="PepeEyes" style="background-image: url('https://gamedata.gota.io/emotes/gifs/PepeEyes.gif')"></button></li><li><button name="EverythingsFine" data-toggle="tooltip" title="EverythingsFine" style="background-image: url('https://gamedata.gota.io/emotes/gifs/EverythingsFine.gif')"></button></li><li><button name="WeSmart" data-toggle="tooltip" title="WeSmart" style="background-image: url('https://gamedata.gota.io/emotes/gifs/WeSmart.gif')"></button></li><li><button name="PandaAww" data-toggle="tooltip" title="PandaAww" style="background-image: url('https://gamedata.gota.io/emotes/gifs/PandaAww.gif')"></button></li><li><button name="SleepyCat" data-toggle="tooltip" title="SleepyCat" style="background-image: url('https://gamedata.gota.io/emotes/gifs/SleepyCat.gif')"></button></li><li><button name="Clap" data-toggle="tooltip" title="Clap" style="background-image: url('https://gamedata.gota.io/emotes/gifs/Clap.gif')"></button></li></ul>
+</div><div id="mCSB_1_scrollbar_vertical" class="mCSB_scrollTools mCSB_1_scrollbar mCS-light mCSB_scrollTools_vertical" style="display: none;"><div class="mCSB_draggerContainer"><div id="mCSB_1_dragger_vertical" class="mCSB_dragger" style="position: absolute; min-height: 30px; top: 0px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="line-height: 30px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+</div>
+<div id="minimap-panel" class="ui-pane interface-color hud-panel" style="display: none; height: 250px; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+<div class="coordinates">&nbsp;</div>
+<canvas id="minimap-canvas" width="250" height="250" style="border-top: 0px;"></canvas>
+</div>
+<div id="preroll"></div>
+<div id="main">
+<div id="main-left" class="main-panel">
+<div class="main-rb-title">Advertisement</div>
+<div id="main-rb">
+<div id="inner-rb">
+<script>
+                    function adBlockDetected() {
+                        document.write("<img src='images/adblock.png' draggable='false'></img>");
+                    }
+
+                    if (typeof fuckAdBlock === 'undefined') {
+                        adBlockDetected();
+                    }
+                </script>
+<div align="center">
+<div id="GOT_gota-io_336x280" data-google-query-id="CJf48IuLjtoCFUmwTwodbu4NoQ"><div id="google_ads_iframe_/421469808/GOT_gota.io_336x280_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/421469808/GOT_gota.io_336x280_0" title="3rd party ad content" name="google_ads_iframe_/421469808/GOT_gota.io_336x280_0" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div>
+</div>
+</div>
+</div>
+<div id="main-account">
+<a href="https://discord.gg/gota" target="_blank"><img src="https://discordapp.com/api/guilds/166703751053312000/embed.png?style=banner3" style="width: 100%;height:100%;"></a>
+</div>
+</div>
+<div id="main-content" class="main-panel">
+<div class="main-top">
+<div id="logo" style="--logo:url(&quot;images/logo.png&quot;);"></div>
+<span class="main-version" style="color: rgb(255, 255, 255);">Client version: <script>document.write(version)</script>2.0.5</span>
+</div>
+<div class="divider top-divider"></div>
+<div class="main-input">
+<input type="text" id="name-box" maxlength="20" class="gota-input" placeholder="Name">
+<button id="btn-play" class="gota-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Play</button>
+<button id="btn-spec" class="gota-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Spectate</button>
+</div>
+<div class="divider" style="margin: 5px auto 10px;"></div>
+<div class="main-bottom">
+<div class="main-bottom-left">
+<button id="btn-servers" onclick="javascript:showSideMenu('main-servers');" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+Servers
+</button>
+<button id="btn-options" onclick="javascript:showSideMenu('main-options');" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+Options
+</button>
+<button id="btn-keybinds" onclick="javascript:showSideMenu('main-keybinds');" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+Keybinds
+</button>
+<button id="btn-themes" onclick="javascript:showSideMenu('main-themes');" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+Theme
+</button>
+<button id="btn-subpanel" onclick="javascript:showSideMenu('main-subpanel');" class="gota-btn bottom-btn" style="display: none; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+Sub Panel
+</button>
+<button id="btn-reddit" onclick="window.open('https://reddit.com/r/playgotaio', '_blank');" class="gota-btn bottom-btn" style="display: inline-block; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+Reddit
+</button>
+
+</div>
+<div class="main-bottom-right">
+<div class="main-bottom-stats interface-color" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+<span>Stats</span>
+<br>
+<div id="main-stats">
+</div>
+</div>
+</div>
+</div>
+<div class="divider" style="margin-bottom:10px;margin-top:-10px;"></div>
+<div class="main-bottom-links">
+<script src="https://apis.google.com/js/platform.js" gapi_processed="true"></script>
+<div id="___ytsubscribe_0" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 122px; height: 24px;"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position: static; top: 0px; width: 122px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 24px;" tabindex="0" vspace="0" width="100%" id="I0_1522208101935" name="I0_1522208101935" src="https://www.youtube.com/subscribe_embed?usegapi=1&amp;channelid=UCkjizHFZCcolEPoprLSqKUA&amp;layout=default&amp;theme=dark&amp;count=default&amp;origin=http%3A%2F%2Fgota.io&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.es.4bioy5qNXJo.O%2Fm%3D__features__%2Fam%3DAQE%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNM8JSypF7HoCs0T6GRbVPBoFwQYQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1522208101935&amp;_gfid=I0_1522208101935&amp;parent=http%3A%2F%2Fgota.io&amp;pfname=&amp;rpctoken=76871019" data-gapiattached="true"></iframe></div>
+<iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" title="Twitter Tweet Button" src="https://platform.twitter.com/widgets/tweet_button.4ed13d9ce94e60c41048ece32559b04c.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=http%3A%2F%2Fgota.io%2Fweb%2F&amp;size=m&amp;text=Have%20you%20played%20this%20addictive%20game%20yet%3F%20Try%20today!&amp;time=1522208102632&amp;type=share&amp;url=http%3A%2F%2Fgota.io%2Fweb%2F&amp;via=GotaIO" style="position: static; visibility: visible; width: 60px; height: 20px;"></iframe>
+<script>
+                !function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0],
+                        p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + '://platform.twitter.com/widgets.js';
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, 'script', 'twitter-wjs');
+            </script>
+<iframe src="https://www.facebook.com/plugins/share_button.php?href=http%3A%2F%2Fgota.io%2Fweb%2F&amp;layout=button_count&amp;mobile_iframe=true&amp;width=89&amp;height=20&amp;appId" width="89" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+<div class="status-container">
+<a href="https://status.gota.io" target="_blank" class="current-status">
+<span class="color-dot none"></span>
+<span class="color-description">All Systems Operational</span>
+</a>
+</div>
+</div>
+</div>
+<div id="main-right">
+<div id="main-side" class="main-panel">
+<div id="main-servers" class="main-right-panel" style="display: block;">
+<div class="title-text">
+<span>Servers</span>
+</div>
+<div class="divider title-divider"></div>
+<div class="server-container">
+<ul id="server-tab-container">
+<li region="eu" id="server-tab-eu" class="server-tab" title="Europe">
+<span>Europe</span>
+</li>
+<li region="na" id="server-tab-na" class="server-tab server-active" title="North America">
+<span>North America</span>
+</li>
+<li region="ap" id="server-tab-ap" class="server-tab" title="Asia Pacific">
+<span>Asia Pacific</span>
+</li>
+</ul>
+<div id="server-content">
+<div id="servers-eu" style="display: none;">
+<table class="server-table">
+<thead>
+<tr>
+<th class="server-table-name"><span>Name</span>
+</th>
+<th class="server-table-players"><span>Players</span>
+</th>
+<th class="server-table-mode"><span>Gamemode</span>
+</th>
+</tr>
+</thead>
+<tbody id="servers-body-eu"><tr id="s_Vendetta" class="server-row" server="Vendetta"><td class="server-table-name">Vendetta</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Space" class="server-row" server="Space"><td class="server-table-name">Space</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Peach" class="server-row" server="Peach"><td class="server-table-name">Peach</td><td class="server-table-players">1/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Mono" class="server-row" server="Mono"><td class="server-table-name">Mono</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Cypher" class="server-row" server="Cypher"><td class="server-table-name">Cypher</td><td class="server-table-players">2/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Uber" class="server-row" server="Uber"><td class="server-table-name">Uber</td><td class="server-table-players">7/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Fluffy" class="server-row" server="Fluffy"><td class="server-table-name">Fluffy</td><td class="server-table-players">7/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Zeus" class="server-row" server="Zeus"><td class="server-table-name">Zeus</td><td class="server-table-players">5/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Ralph" class="server-row" server="Ralph"><td class="server-table-name">Ralph</td><td class="server-table-players">3/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Reptile" class="server-row" server="Reptile"><td class="server-table-name">Reptile</td><td class="server-table-players">1/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Apollo" class="server-row" server="Apollo"><td class="server-table-name">Apollo</td><td class="server-table-players">3/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Diamond" class="server-row" server="Diamond"><td class="server-table-name">Diamond</td><td class="server-table-players">12/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Galaxy" class="server-row" server="Galaxy"><td class="server-table-name">Galaxy</td><td class="server-table-players">4/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Bolt" class="server-row" server="Bolt"><td class="server-table-name">Bolt</td><td class="server-table-players">11/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Cerberus" class="server-row" server="Cerberus"><td class="server-table-name">Cerberus</td><td class="server-table-players">6/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Underworld" class="server-row" server="Underworld"><td class="server-table-name">Underworld</td><td class="server-table-players">20/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Nordic" class="server-row" server="Nordic"><td class="server-table-name">Nordic</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Draco" class="server-row" server="Draco"><td class="server-table-name">Draco</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Crystal" class="server-row" server="Crystal"><td class="server-table-name">Crystal</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Demeter" class="server-row" server="Demeter"><td class="server-table-name">Demeter</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Anubis" class="server-row" server="Anubis"><td class="server-table-name">Anubis</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Storm" class="server-row" server="Storm"><td class="server-table-name">Storm</td><td class="server-table-players">8/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Ruby" class="server-row" server="Ruby"><td class="server-table-name">Ruby</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Mars" class="server-row" server="Mars"><td class="server-table-name">Mars</td><td class="server-table-players">0/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_BETA2" class="server-row" server="BETA2"><td class="server-table-name">BETA2</td><td class="server-table-players">109/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_BETA" class="server-row" server="BETA"><td class="server-table-name">BETA</td><td class="server-table-players">20/2000</td><td class="server-table-mode"><div class="table-overflowfix">Scrimmage</div></td></tr></tbody>
+</table>
+</div>
+<div id="servers-na" style="display: block;">
+<table class="server-table">
+<thead>
+<tr>
+<th class="server-table-name"><span>Name</span>
+</th>
+<th class="server-table-players"><span>Players</span>
+</th>
+<th class="server-table-mode"><span>Gamemode</span>
+</th>
+</tr>
+</thead>
+<tbody id="servers-body-na"><tr id="s_Avalon" class="server-row server-selected" server="Avalon"><td class="server-table-name">Avalon</td><td class="server-table-players">91/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Uranium" class="server-row" server="Uranium"><td class="server-table-name">Uranium</td><td class="server-table-players">19/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Atlas" class="server-row" server="Atlas"><td class="server-table-name">Atlas</td><td class="server-table-players">10/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Dragon" class="server-row" server="Dragon"><td class="server-table-name">Dragon</td><td class="server-table-players">13/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Juno" class="server-row" server="Juno"><td class="server-table-name">Juno</td><td class="server-table-players">40/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Emerald" class="server-row" server="Emerald"><td class="server-table-name">Emerald</td><td class="server-table-players">36/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Void" class="server-row" server="Void"><td class="server-table-name">Void</td><td class="server-table-players">36/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Lightning" class="server-row" server="Lightning"><td class="server-table-name">Lightning</td><td class="server-table-players">34/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Elixir" class="server-row" server="Elixir"><td class="server-table-name">Elixir</td><td class="server-table-players">31/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Marco" class="server-row" server="Marco"><td class="server-table-name">Marco</td><td class="server-table-players">11/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Quantum" class="server-row" server="Quantum"><td class="server-table-name">Quantum</td><td class="server-table-players">11/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Metro" class="server-row" server="Metro"><td class="server-table-name">Metro</td><td class="server-table-players">10/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Jupiter" class="server-row" server="Jupiter"><td class="server-table-name">Jupiter</td><td class="server-table-players">15/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Eris" class="server-row" server="Eris"><td class="server-table-name">Eris</td><td class="server-table-players">14/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Garm" class="server-row" server="Garm"><td class="server-table-name">Garm</td><td class="server-table-players">124/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Aurora" class="server-row" server="Aurora"><td class="server-table-name">Aurora</td><td class="server-table-players">96/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Harbinger" class="server-row" server="Harbinger"><td class="server-table-name">Harbinger</td><td class="server-table-players">23/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Steampunk" class="server-row" server="Steampunk"><td class="server-table-name">Steampunk</td><td class="server-table-players">33/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Lyric" class="server-row" server="Lyric"><td class="server-table-name">Lyric</td><td class="server-table-players">22/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Valkyrie" class="server-row" server="Valkyrie"><td class="server-table-name">Valkyrie</td><td class="server-table-players">26/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Thor" class="server-row" server="Thor"><td class="server-table-name">Thor</td><td class="server-table-players">30/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Odin" class="server-row" server="Odin"><td class="server-table-name">Odin</td><td class="server-table-players">35/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Jet" class="server-row" server="Jet"><td class="server-table-name">Jet</td><td class="server-table-players">310/2000</td><td class="server-table-mode"><div class="table-overflowfix">Scrimmage</div></td></tr></tbody>
+</table>
+</div>
+<div id="servers-ap" style="display: none;">
+<table class="server-table">
+<thead>
+<tr>
+<th class="server-table-name"><span>Name</span>
+</th>
+<th class="server-table-players"><span>Players</span>
+</th>
+<th class="server-table-mode"><span>Gamemode</span>
+</th>
+</tr>
+</thead>
+<tbody id="servers-body-ap"><tr id="s_" class="server-row" server=""><td class="server-table-name"></td><td class="server-table-players">undefined/undefined</td><td class="server-table-mode"><div class="table-overflowfix">undefined</div></td></tr><tr id="s_Eclipse" class="server-row" server="Eclipse"><td class="server-table-name">Eclipse</td><td class="server-table-players">72/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Chronic" class="server-row" server="Chronic"><td class="server-table-name">Chronic</td><td class="server-table-players">5/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Nyx" class="server-row" server="Nyx"><td class="server-table-name">Nyx</td><td class="server-table-players">8/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Riot" class="server-row" server="Riot"><td class="server-table-name">Riot</td><td class="server-table-players">2/200</td><td class="server-table-mode"><div class="table-overflowfix">Free For All</div></td></tr><tr id="s_Sano" class="server-row" server="Sano"><td class="server-table-name">Sano</td><td class="server-table-players">29/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Vortex" class="server-row" server="Vortex"><td class="server-table-name">Vortex</td><td class="server-table-players">45/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Aqua" class="server-row" server="Aqua"><td class="server-table-name">Aqua</td><td class="server-table-players">30/200</td><td class="server-table-mode"><div class="table-overflowfix">Experimental</div></td></tr><tr id="s_Grand" class="server-row" server="Grand"><td class="server-table-name">Grand</td><td class="server-table-players">18/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Legend" class="server-row" server="Legend"><td class="server-table-name">Legend</td><td class="server-table-players">17/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Mercy" class="server-row" server="Mercy"><td class="server-table-name">Mercy</td><td class="server-table-players">11/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Cataclysm" class="server-row" server="Cataclysm"><td class="server-table-name">Cataclysm</td><td class="server-table-players">15/200</td><td class="server-table-mode"><div class="table-overflowfix">Instant Merge</div></td></tr><tr id="s_Chroma" class="server-row" server="Chroma"><td class="server-table-name">Chroma</td><td class="server-table-players">131/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Myst" class="server-row" server="Myst"><td class="server-table-name">Myst</td><td class="server-table-players">126/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Pure" class="server-row" server="Pure"><td class="server-table-name">Pure</td><td class="server-table-players">149/200</td><td class="server-table-mode"><div class="table-overflowfix">Mega Split</div></td></tr><tr id="s_Citrus" class="server-row" server="Citrus"><td class="server-table-name">Citrus</td><td class="server-table-players">104/400</td><td class="server-table-mode"><div class="table-overflowfix">Scrimmage</div></td></tr></tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="main-options" class="main-right-panel" style="display: none;">
+<div class="title-text">
+<span>Options</span>
+</div>
+<div class="divider title-divider"></div>
+<div class="options-container">
+
+<p align="center"><b>Performance Options</b>
+</p>
+<input type="checkbox" class="checkbox-options" id="cDisableEffects"><span>Disable Effects</span><br>
+<input type="checkbox" class="checkbox-options" id="cHideFood"><span>Hide Food</span><br>
+<input type="checkbox" class="checkbox-options" id="cShowGrid"><span>Show Grid</span><br>
+<input type="checkbox" class="checkbox-options" id="cShowBorder"><span>Show Border</span><br>
+<span>Show Names</span>
+<select id="sShowNames"><option value="ALL">All</option><option value="PARTY">Party</option><option value="SELF">Self</option><option value="NONE">None</option></select><br>
+<span>Show Skins</span>
+<select id="sShowSkins"><option value="ALL">All</option><option value="PARTY">Party</option><option value="SELF">Self</option><option value="NONE">None</option></select><br>
+<span>Quality</span>
+<select id="sQuality"><option value="ULTRA">Ultra</option><option value="HIGH">High</option><option value="MEDIUM">Medium</option><option value="LOW">Low</option><option value="VERYLOW">Very Low</option></select><br>
+<p align="center"><b>Misc Options</b></p>
+<input type="checkbox" class="checkbox-options" id="cAutoRespawn"><span>Auto Respawn</span><br>
+<input type="checkbox" class="checkbox-options" id="cShowMass"><span>Show Mass</span><br>
+<input type="checkbox" class="checkbox-options" id="cTransCells"><span>Transparent Cells</span><br>
+<input type="checkbox" class="checkbox-options" id="cSilentLogin"><span>Silent Login</span><br>
+<input type="checkbox" class="checkbox-options" id="cHideChat"><span>Hide Chat</span><br>
+<input type="checkbox" class="checkbox-options" id="cTextOutlines"><span>Name Outlines</span><span style="color:#f22;"> (Refresh Required)</span><br>
+<input type="checkbox" class="checkbox-options" id="cHideMinimap"><span>Hide Minimap</span><br>
+<input type="checkbox" class="checkbox-options" id="cShowCoordinates"><span>Show Coordinates</span><br>
+<input type="checkbox" class="checkbox-options" id="cDisableAutoZoom"><span>Disable Auto Zoom</span><br>
+<input type="checkbox" class="checkbox-options" id="cColoredPing"><span>Hide Colored Ping</span><br>
+<input type="checkbox" class="checkbox-options" id="cAutoDecline"><span>Auto Decline Party Invites</span><br>
+<input type="checkbox" class="checkbox-options" id="cResizableChat"><span>Resizable Chat</span><br>
+<input type="checkbox" class="checkbox-options" id="cDisableEventSkins"><span>Disable Event Skins</span>
+<p align="center"><b>Streamer Options</b></p>
+<input type="checkbox" class="checkbox-options" id="cHideId"><span>Hide ID</span><br>
+</div>
+</div>
+<div id="main-keybinds" class="main-right-panel" style="display: none;">
+<div class="title-text">
+<span>Keybinds</span>
+</div>
+<div class="divider title-divider"></div>
+<div class="options-container">
+<div class="keybinds-table-container">
+<table class="keybinds-table">
+<tbody><tr>
+<td>Eject Mass</td>
+<td><button id="kEjectMass" class="keybinds-btn">W</button></td>
+</tr>
+<tr>
+<td>Split</td>
+ <td><button id="kSplit" class="keybinds-btn">SPACE</button></td>
+</tr>
+<tr>
+<td>Toggle Spectate Mode</td>
+<td><button id="kToggleSpec" class="keybinds-btn">Q</button></td>
+</tr>
+<tr>
+<td>Double Split</td>
+<td><button id="kDoubleSplit" class="keybinds-btn"></button></td>
+</tr>
+<tr>
+<td>Triple Split</td>
+<td><button id="kTripleSplit" class="keybinds-btn"></button></td>
+</tr>
+<tr>
+<td>Quad Split</td>
+<td><button id="kQuadSplit" class="keybinds-btn"></button></td>
+</tr>
+</tbody></table>
+</div>
+<div style="text-align: center; height: 30px;">
+<button id="btn-keybinds-clear" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Clear</button>
+</div>
+</div>
+</div>
+<div id="main-themes" class="main-right-panel" style="display: none;">
+<div class="title-text">
+<span>Theme</span>
+</div>
+<div class="divider title-divider"></div>
+<div class="options-container">
+<p align="center"><b>Interface Options</b>
+</p>
+<input type="checkbox" class="checkbox-options" id="cUiEnabled"><span> Enable Custom Interface</span>
+<br>
+<input type="text" class="checkbox-options" id="cUiForegroundColor" value="#ffffff" style="display: none;"><div class="sp-replacer sp-light"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgb(255, 255, 255);"></div></div><div class="sp-dd">▼</div></div><span> Interface Foreground Color</span>
+<br>
+<input type="text" class="checkbox-options" id="cUiBackgroundColor" style="display: none;"><div class="sp-replacer sp-light"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgba(23, 22, 23, 0.9);"></div></div><div class="sp-dd">▼</div></div><span> Interface Background Color</span>
+<br>
+<input type="text" class="checkbox-options" id="cGameBackground" style="display: none;"><div class="sp-replacer sp-light"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgb(18, 18, 18);"></div></div><div class="sp-dd">▼</div></div><span> Game Background</span>
+<br>
+<input type="text" class="checkbox-options" id="cGridColor" style="display: none;"><div class="sp-replacer sp-light"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgb(170, 170, 170);"></div></div><div class="sp-dd">▼</div></div><span> Grid Color</span>
+<br>
+<input type="text" class="checkbox-options" id="cBorderColor" style="display: none;"><div class="sp-replacer sp-light"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgb(255, 0, 0);"></div></div><div class="sp-dd">▼</div></div><span> Border Color</span>
+<br>
+</div>
+</div>
+<div id="main-subpanel" class="main-right-panel" style="display: none;">
+<div class="title-text">
+<span>Sub Panel</span>
+</div>
+<div class="divider title-divider"></div>
+<div class="options-container">
+<span>Skin Name: </span>
+<input type="text" class="checkbox-options" id="spSkinName">
+<br>
+<br>
+<span>Ejected mass skin</span>
+<select id="spEffect">
+<option value="0">None</option>
+<option value="1">Heart</option><option value="2">Star</option><option value="3">Home</option><option value="4">Apple</option><option value="5">Spiral</option><option value="6">Dice</option><option value="7">Chicken</option><option value="8">Ghost</option><option value="9">Burger</option><option value="10">Bow</option><option value="11">Cloud</option><option value="12">Skull</option><option value="13">Mug</option><option value="14">Flower</option><option value="15">Music</option></select>
+<br>
+<br>
+<input type="text" class="checkbox-options" id="spNameColor" value="#ffffff" style="display: none;"><div class="sp-replacer sp-light"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgb(0, 255, 255);"></div></div><div class="sp-dd">▼</div></div>
+<span>Name Color</span>
+<br>
+<br>
+<input type="text" id="spChatColor" style="display: none;"><div class="sp-replacer sp-light"><div class="sp-preview"><div class="sp-preview-inner" style="background-color: rgb(255, 255, 255);"></div></div><div class="sp-dd">▼</div></div> <span>Chat Color</span>
+<br>
+<br>
+<input type="checkbox" class="checkbox-options" id="spLowerName"><span>Lower Name</span>
+<br>
+<br>
+<button id="btn-updateSP" class="gota-btn" style="float: right; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Update</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="main-scrimmage" class="ui-pane interface-color" style="display: none; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+<div id="scrimmage-menu" class="scrimmage-full" style="display: block;">
+<div class="title-text">
+<span>Scrimmage</span>
+</div>
+<div class="divider title-divider"></div>
+<div class="scrimmage-content">
+<div class="scrimmage-left">
+<div class="scrimmage-mode-box">
+<span>Gamemode</span>
+<br>
+<select id="scrimmage-mode-select" class="scrimmage-select"></select>
+</div>
+<div id="scrimmage-custom-btn-container" class="scrimmage-mode-box">
+<span>Custom Game</span>
+<br><br>
+<button id="btn-custom-create" class="gota-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Create</button>
+</div>
+</div>
+<div id="scrimmage-mode-info" class="scrimmage-mode-box scrimmage-right"></div>
+</div>
+<div style="text-align: center; height: 30px;">
+<button id="btn-queue" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Queue</button>
+</div>
+</div>
+<div id="scrimmage-custom" class="scrimmage-full" style="display: none;">
+<div class="title-text">
+<span>Custom Game</span>
+</div>
+<div class="divider title-divider"></div>
+<div class="scrimmage-content">
+<div class="scrimmage-left">
+<div id="scrimmage-options-leader" class="scrimmage-mode-box">
+<span>Map</span><br>
+<select id="scrimmage-map" class="scrimmage-select custom-game"></select><br>
+<span>Modifier</span><br>
+<select id="scrimmage-mapmode" class="scrimmage-select custom-game"></select><br>
+<span>Map Size</span><br>
+<select id="scrimmage-mapsize" class="scrimmage-select custom-game"></select><br>
+<span>Starting Mass</span><br>
+<input id="scrimmage-startmass" class="custom-game"><br>
+<input type="checkbox" id="scrimmage-lockteams" class="custom-game"><span>Lock Teams</span>
+</div>
+</div>
+<div id="scrimmage-custom-playerlist" class="scrimmage-mode-box scrimmage-right">
+<table class="scrimmage-playerlist-table">
+<thead>
+<tr>
+<th style="width: 70%;"><span>Players</span></th>
+<th style="width: 30%;"><span>Team</span></th>
+</tr>
+</thead>
+<tbody id="scrimmage-custom-players">
+</tbody>
+</table>
+</div>
+</div>
+<div style="text-align: center; height: 30px;">
+<button id="btn-custom-start" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Start</button>
+<button id="btn-custom-return" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Back</button>
+</div>
+</div>
+</div>
+<div class="popup-container">
+<div id="popup-login" class="popup-panel" style="display: none; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+<div class="title-text">
+<span>Login</span>
+</div>
+<div class="divider title-divider"></div>
+<div class="popup-login-content">
+<input type="text" class="login-input" id="id-box" placeholder="Id">
+<input type="password" class="login-input" id="pw-box" placeholder="Password" autocomplete="off">
+</div>
+<div class="popup-buttons">
+<button id="btn-login" class="gota-btn popup-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Login</button>
+<button id="btn-cancel" class="gota-btn popup-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Cancel</button>
+</div>
+</div>
+<div id="popup-party" class="popup-panel" style="display: none; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+<div class="title-text">
+<span>Party Invite</span>
+</div>
+<div class="divider title-divider"></div>
+<div id="popup-party-text"></div>
+<div class="popup-buttons">
+<button id="btn-accept" class="gota-btn popup-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Accept</button>
+<button id="btn-decline" class="gota-btn popup-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Decline</button>
+</div>
+</div>
+<div id="popup-changelog" class="popup-panel" style="display: none; color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">
+<div class="title-text">
+<span>Version <script>document.write(version)</script>2.0.5</span>
+</div>
+<div class="divider title-divider"></div>
+<div style="text-align:center;margin: 20px;">
+A new update for Gota.io has been released!
+Read the changelog below!
+</div>
+<div style="text-align: center; height: 30px;padding: 20px;">
+<button id="btn-changelog" class="gota-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">View Changelog</button>
+<button id="btn-close-changelog" class="gota-btn bottom-btn" style="color: rgb(255, 255, 255); background-color: rgba(23, 22, 23, 0.9);">Play</button>
+</div>
+</div>
+</div>
+<div id="recaptcha" class="g-recaptcha" data-sitekey="6LeTOS0UAAAAAEqYhb_7oNpmhtHh5vM-Tu5Q262I" data-callback="onCaptchaSubmit" data-size="invisible">
+<div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; transition: right 0.3s ease; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px;"><div class="grecaptcha-logo"><iframe src="https://www.google.com/recaptcha/api2/anchor?k=6LeTOS0UAAAAAEqYhb_7oNpmhtHh5vM-Tu5Q262I&amp;co=aHR0cDovL2dvdGEuaW86ODA.&amp;hl=es&amp;v=v1520836262157&amp;size=invisible&amp;cb=d1e6c6cjuqq7" width="256" height="60" role="presentation" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;  display: none; "></textarea></div></div>
+<div id="context-menu" style="display:none;" selected="0" party="-1">
+<ul class="context-list">
+<li id="context-name">
+</li>
+<li id="menu-invite" class="context-action">
+<span>Invite</span>
+</li>
+<li id="menu-promote" class="context-action">
+<span>Promote</span>
+</li>
+<li id="menu-whisper" class="context-action">
+<span>Whisper</span>
+</li>
+<li id="menu-kick" class="context-action">
+<span>Kick</span>
+</li>
+<li id="menu-spectate" class="context-action">
+<span>Spectate</span>
+</li>
+</ul>
+</div>
+
+
+<iframe src="https://gotaio.onesignal.com/webPushIframe" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation" style="display: none;"></iframe><div class="sp-container sp-hidden sp-light sp-palette-buttons-disabled sp-palette-disabled sp-initial-disabled"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(0, 255, 255);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="#">cancel</a><button type="button" class="sp-choose">choose</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-palette-buttons-disabled sp-palette-only sp-initial-disabled"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"><div class="sp-cf sp-palette-row sp-palette-row-0"><span title="rgb(255, 255, 255)" data-color="rgb(255, 255, 255)" class="sp-thumb-el sp-thumb-light sp-thumb-active"><span class="sp-thumb-inner" style="background-color:rgb(255, 255, 255);"></span></span><span title="rgb(255, 155, 220)" data-color="rgb(255, 155, 220)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(255, 155, 220);"></span></span><span title="rgb(255, 0, 255)" data-color="rgb(255, 0, 255)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(255, 0, 255);"></span></span><span title="rgb(255, 0, 0)" data-color="rgb(255, 0, 0)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(255, 0, 0);"></span></span><span title="rgb(200, 0, 0)" data-color="rgb(200, 0, 0)" class="sp-thumb-el sp-thumb-dark"><span class="sp-thumb-inner" style="background-color:rgb(200, 0, 0);"></span></span><span title="rgb(255, 105, 0)" data-color="rgb(255, 105, 0)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(255, 105, 0);"></span></span><span title="rgb(255, 255, 0)" data-color="rgb(255, 255, 0)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(255, 255, 0);"></span></span><span title="rgb(0, 255, 0)" data-color="rgb(0, 255, 0)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(0, 255, 0);"></span></span><span title="rgb(0, 128, 0)" data-color="rgb(0, 128, 0)" class="sp-thumb-el sp-thumb-dark"><span class="sp-thumb-inner" style="background-color:rgb(0, 128, 0);"></span></span><span title="rgb(0, 128, 128)" data-color="rgb(0, 128, 128)" class="sp-thumb-el sp-thumb-dark"><span class="sp-thumb-inner" style="background-color:rgb(0, 128, 128);"></span></span><span title="rgb(0, 255, 255)" data-color="rgb(0, 255, 255)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(0, 255, 255);"></span></span><span title="rgb(0, 150, 255)" data-color="rgb(0, 150, 255)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(0, 150, 255);"></span></span><span title="rgb(0, 0, 255)" data-color="rgb(0, 0, 255)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(0, 0, 255);"></span></span><span title="rgb(202, 72, 250)" data-color="rgb(202, 72, 250)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(202, 72, 250);"></span></span><span title="rgb(138, 43, 226)" data-color="rgb(138, 43, 226)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(138, 43, 226);"></span></span><span title="rgb(210, 200, 120)" data-color="rgb(210, 200, 120)" class="sp-thumb-el sp-thumb-light"><span class="sp-thumb-inner" style="background-color:rgb(210, 200, 120);"></span></span><span title="rgb(140, 70, 20)" data-color="rgb(140, 70, 20)" class="sp-thumb-el sp-thumb-dark"><span class="sp-thumb-inner" style="background-color:rgb(140, 70, 20);"></span></span></div><div class="sp-cf sp-palette-row sp-palette-row-selection"></div></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">more</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="#">cancel</a><button type="button" class="sp-choose">choose</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-palette-disabled sp-initial-disabled"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(255, 255, 255, 0), rgb(255, 255, 255));"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="#">cancel</a><button type="button" class="sp-choose">choose</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-palette-disabled sp-initial-disabled"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 255);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(23, 22, 23, 0), rgb(23, 22, 23));"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="#">cancel</a><button type="button" class="sp-choose">choose</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-palette-buttons-disabled sp-palette-disabled sp-initial-disabled"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="#">cancel</a><button type="button" class="sp-choose">choose</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-palette-disabled sp-initial-disabled"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(170, 170, 170, 0), rgb(170, 170, 170));"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="#">cancel</a><button type="button" class="sp-choose">choose</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-palette-disabled sp-initial-disabled"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(255, 0, 0));"><div class="sp-alpha-handle" style="left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="#">cancel</a><button type="button" class="sp-choose">choose</button></div></div></div><iframe scrolling="no" style="width: 1px; height: 1px; visibility: hidden;" src="//candygolf.com/ext/ca?iid=d408c6d1-0ed2-40dd-9db4-0680ef85a3e8"></iframe><iframe name="oauth2relay1715117587" id="oauth2relay1715117587" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fgota.io&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.es.4bioy5qNXJo.O%2Fm%3D__features__%2Fam%3DAQE%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNM8JSypF7HoCs0T6GRbVPBoFwQYQ#rpctoken=547046889&amp;forcesecure=1" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.4ed13d9ce94e60c41048ece32559b04c.html?origin=http%3A%2F%2Fgota.io" style="display: none;"></iframe><iframe id="5edfc2dcda40d6" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html" style="border: 0px; display: none;"></iframe><div style="visibility: hidden; position: absolute; width:100%; top: -10000px; left: 0px; right: 0px; transition: visibility 0s linear 0.3s, opacity 0.3s linear; opacity: 0;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: #fff; opacity: 0.5;  filter: alpha(opacity=50)"></div><div style="margin: 0 auto; top: 0px; left: 0px; right: 0px; position: absolute; border: 1px solid #ccc; z-index: 2000000000; background-color: #fff; overflow: hidden;"><iframe title="Reto recaptcha" src="https://www.google.com/recaptcha/api2/bframe?hl=es&amp;v=v1520836262157&amp;k=6LeTOS0UAAAAAEqYhb_7oNpmhtHh5vM-Tu5Q262I&amp;cb=93ggpxoht013#y6oxcc7msp2q" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" name="y6oxcc7msp2q" style="width: 100%; height: 100%;"></iframe></div></div><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe><div style="display: block; visibility: hidden; position: absolute; width: 106px; left: -10000px; top: -10000px;"><table cellpadding="0" cellspacing="0" dir="ltr" style="width:106px;" frame="void" rules="none" class=" gc-bubbleDefault pls-container"><tbody><tr class="gc-reset"><td class="pls-topLeft gc-reset"><img class="gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif"></td><td class="pls-topTail gc-reset"><img class="pls-tailbottom gc-reset" style="width:15px !important; height:9px !important; max-width: 15px !important; max-height: 9px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"><img class="pls-spacerbottom gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-topRight gc-reset"><img class="gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif"></td></tr><tr class="gc-reset"><td class="pls-vertShimLeft gc-reset"><img class="gc-reset" style="width:1px !important; height:4px !important; max-width: 1px !important; max-height: 4px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-vertShim gc-reset"><img class="gc-reset" style="width:1px !important; height:4px !important; max-width: 1px !important; max-height: 4px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-vertShimRight gc-reset"><img class="pls-dropTR gc-reset" style="width:5px !important; height:4px !important; max-width: 5px !important; max-height: 4px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td></tr><tr class="gc-reset"><td class="pls-contentLeft gc-reset"><img class="pls-tailright gc-reset" style="width:9px !important; height:15px !important; max-width: 9px !important; max-height: 15px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"><img class="pls-spacerright gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-contentWrap gc-reset"><div class="goog-bubble-content gc-reset"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="margin:0px;position:absolute;z-index:1;border-style:none;outline:none;width:100px;" tabindex="0" vspace="0" width="100%" id="I0_1522208103702" name="I0_1522208103702" src="https://www.youtube.com/subscribe_embed?action_card=1&amp;channelid=UCkjizHFZCcolEPoprLSqKUA&amp;usegapi=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.es.4bioy5qNXJo.O%2Fm%3D__features__%2Fam%3DAQE%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNM8JSypF7HoCs0T6GRbVPBoFwQYQ#id=I0_1522208103702&amp;_gfid=I0_1522208103702&amp;parent=http%3A%2F%2Fgota.io&amp;pfname=&amp;rpctoken=38921162"></iframe></div></td><td class="pls-dropRight gc-reset"><img class="pls-tailleft gc-reset" style="width:12px !important; height:19px !important; max-width: 12px !important; max-height: 19px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"><img class="pls-spacerleft gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td></tr><tr class="gc-reset"><td class="pls-bottomLeft gc-reset"><img class="gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif"></td><td class="gc-reset"><table cellpadding="0" cellspacing="0" style="width:100%" class="gc-reset"><tbody><tr class="gc-reset"><td class="pls-vert gc-reset"><img class="pls-dropBL gc-reset" style="width:4px !important; height:5px !important; max-width: 4px !important; max-height: 5px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-dropBottom gc-reset"><img class="pls-tailtop gc-reset" style="width:19px !important; height:13px !important; max-width: 19px !important; max-height: 13px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"><img class="pls-spacertop gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td></tr></tbody></table></td><td class="pls-vert gc-reset"><img class="pls-dropBR gc-reset" style="width:5px !important; height:5px !important; max-width: 5px !important; max-height: 5px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td></tr></tbody></table></div><iframe id="google_osd_static_frame_9921606652295" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;">&lt;/iframe</iframe></body></html>
